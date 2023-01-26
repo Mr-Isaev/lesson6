@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\lesson6\DZ_2\bin\Debug\net7.0\DZ_2.exe
+C:\Users\1\Desktop\lesson6\DZ_2\bin\Debug\net7.0\DZ_2.deps.json
+C:\Users\1\Desktop\lesson6\DZ_2\bin\Debug\net7.0\DZ_2.runtimeconfig.json
+C:\Users\1\Desktop\lesson6\DZ_2\bin\Debug\net7.0\DZ_2.dll
+C:\Users\1\Desktop\lesson6\DZ_2\bin\Debug\net7.0\DZ_2.pdb
+C:\Users\1\Desktop\lesson6\DZ_2\obj\Debug\net7.0\DZ_2.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\lesson6\DZ_2\obj\Debug\net7.0\DZ_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\lesson6\DZ_2\obj\Debug\net7.0\DZ_2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\lesson6\DZ_2\obj\Debug\net7.0\DZ_2.AssemblyInfo.cs
+C:\Users\1\Desktop\lesson6\DZ_2\obj\Debug\net7.0\DZ_2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\lesson6\DZ_2\obj\Debug\net7.0\DZ_2.dll
+C:\Users\1\Desktop\lesson6\DZ_2\obj\Debug\net7.0\refint\DZ_2.dll
+C:\Users\1\Desktop\lesson6\DZ_2\obj\Debug\net7.0\DZ_2.pdb
+C:\Users\1\Desktop\lesson6\DZ_2\obj\Debug\net7.0\DZ_2.genruntimeconfig.cache
+C:\Users\1\Desktop\lesson6\DZ_2\obj\Debug\net7.0\ref\DZ_2.dll
